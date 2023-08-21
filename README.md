@@ -1,2 +1,1 @@
-To create pokemon-app, 
-I followed Simon Dieny - Code Senior's tutorial on Angular.
+This application was created by following Simon Dieny - Code Senior's tutorial on Angular.
